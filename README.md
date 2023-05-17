@@ -3,7 +3,7 @@
 - :date: Currently working at Microsoft
 - :iphone: Worked at Huawei for 2 years
 - :maple_leaf: B.S. in Software Engineering at Western University, London, Canada
-- :video_game:Played DoTA for more than 10 years, 4000 MMR
+- :video_game: Played DoTA for more than 10 years, 4000 MMR
 
 <p style="border: 1px solid #efefef;">
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
