@@ -16,9 +16,8 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" />
   <img alt="Three.js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img alt="Less" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
+  <img alt="Less" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" />
 </div>
-
 <hr>
 
 ### :sparkles: Social Media:
