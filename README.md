@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/wcai49/wcai49/blob/main/IMG_0975.jpg">
 
-### :v: Hi, this is Wenlei, a Software Engineer and Gamer
+### :v: Hi, I am Wenlei, a Software Engineer and Gamer
 - :date: Currently working at Microsoft, Suzhou, China
 - :iphone: 2020.July ~ 2022.Jan Worked at Huawei, Nanjing, China
 - :maple_leaf: B.S. in Software Engineering at Western University, London, Canada
