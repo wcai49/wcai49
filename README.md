@@ -1,19 +1,22 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/wcai49/wcai49/blob/main/IMG_0975.jpg">
 
-### :v: Hi, this is Wenlei, a Software Engineer and Game Developer.
+### :v: Hi, this is Wenlei, a Software Engineer and Gamer
 - :date: Currently working at Microsoft, Suzhou, China
 - :iphone: 2020.July ~ 2022.Jan Worked at Huawei, Nanjing, China
 - :maple_leaf: B.S. in Software Engineering at Western University, London, Canada
-- :video_game: Played DoTA for more than 10 years, stuck at 4000 MMR
 - :telescope: Worked as Indie Game developer, Vlogger, and Streamer during part time
+- :video_game: Played DoTA for more than 10 years, stuck at 4000 MMR
 
 <div align="center">
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="Unity3D" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img alt="Electron.js" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" />
+  <img alt="Three.js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img alt="Less" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
 </div>
 
 <hr>
