@@ -7,6 +7,8 @@
 - :telescope: Worked as Indie Game developer, Vlogger, and Streamer during part time
 - :video_game: Played DoTA for more than 10 years, stuck at 4000 MMR
 
+<hr>
+
 <div align="center">
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -18,7 +20,6 @@
   <img alt="Three.js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
   <img alt="Less" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" />
 </div>
-<hr>
 
 ### :sparkles: Social Media:
   
