@@ -6,7 +6,7 @@
 - :date: Currently working at Microsoft, Suzhou, China
 - :iphone: 2020.July ~ 2022.Jan Worked at Huawei, Nanjing, China
 - :maple_leaf: B.S. in Software Engineering at Western University, London, Canada
-- :telescope: Worked as Indie Game developer, Vlogger, and Streamer during part time
+- :telescope: Indie Game developer, Vlogger, and Streamer during part time
 - :video_game: Played DoTA for more than 10 years, stuck at 4000 MMR
   
 </p>
