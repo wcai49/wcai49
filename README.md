@@ -31,6 +31,10 @@
 ### :sparkles: Social Media:
   
   
-   - [蔡文磊 - 知乎账号](https://www.zhihu.com/people/cai-wen-lei-72)
+   - [蔡文磊 - 知乎](https://www.zhihu.com/people/cai-wen-lei-72)
    - [玩乐进化 - Bilibili](https://space.bilibili.com/470625217)
    - [Game Evolution - Youtube](https://www.youtube.com/channel/UCPg2KuLG_oqS3bk-ORVEIRw)
+
+### :mailbox: Keep in touch: 
+
+   - <span>Email me at: **wenleiDev**</span> <span>the Gmail</span>
