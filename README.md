@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" width="380" src="https://github.com/wcai49/wcai49/blob/main/IMG_0975.jpg">
-
 <p align="left">
   
 ### :v: Hi, I am Wenlei, a Software Engineer and Gamer
