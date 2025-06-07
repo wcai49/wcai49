@@ -1,11 +1,12 @@
 <p align="left">
   
 ### :v: Hi, I am Wenlei, a Software Engineer and Gamer
-- :date: Currently working at Microsoft, Suzhou, China
-- :iphone: 2020.July ~ 2022.Jan Worked at Huawei, Nanjing, China
+- :avocado: Currently as Indie Game Developer, Content Creator, Nanjing, China
+- :date: 2022.Jan ~ 2025.July, Microsoft, Suzhou, China
+- :iphone: 2020.July ~ 2022.Jan, Huawei, Nanjing, China
 - :maple_leaf: B.S. in Software Engineering at Western University, London, Canada
 - :telescope: Indie Game developer, Vlogger, and Streamer during part time
-- :video_game: Played DoTA for more than 10 years, stuck at 4000 MMR
+- :video_game: Gamer, Dota / Counter Strike / World Of Warcraft, but Minecraft is the GREATEST
   
 </p>
 
@@ -28,8 +29,6 @@
 
 ### :sparkles: Social Media:
   
-  
-   - [蔡文磊 - 知乎](https://www.zhihu.com/people/cai-wen-lei-72)
    - [玩乐进化 - Bilibili](https://space.bilibili.com/470625217)
    - [Game Evolution - Youtube](https://www.youtube.com/channel/UCPg2KuLG_oqS3bk-ORVEIRw)
 
