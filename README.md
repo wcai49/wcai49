@@ -1,12 +1,11 @@
 <p align="left">
   
 ### :v: Hi, I am Wenlei, a Software Engineer and Gamer
-- :avocado: Currently as Indie Game Developer, Content Creator, Nanjing, China
+- :avocado: Currently as Indie Game Developer, Content Creator, and Streamer, Nanjing, China
 - :date: 2022.Jan ~ 2025.July, Microsoft, Suzhou, China
 - :iphone: 2020.July ~ 2022.Jan, Huawei, Nanjing, China
 - :maple_leaf: B.S. in Software Engineering at Western University, London, Canada
-- :telescope: Indie Game developer, Vlogger, and Streamer during part time
-- :video_game: Gamer, Dota / Counter Strike / World Of Warcraft, but Minecraft is the GREATEST
+- :video_game: Gamer, Dota / Counter Strike / World Of Warcraft, but Minecraft is the GREATEST game ever in the world
   
 </p>
 
